@@ -1,0 +1,21 @@
+
+.backgraund{
+    -fx-background-image: url(../Image/1.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    
+}
+
+.avatar .decoration{
+    -fx-fill: transparent;
+}
+
+.buttonHover:hover{
+    -fx-background-color: #F3F3F3;
+    -fx-background-radius: 0 3 3 0;
+}
+
+.userSelect:hover{
+    -fx-background-color: #F3F3F330;
+    -fx-background-radius: 3;
+}
